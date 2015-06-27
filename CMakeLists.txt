@@ -29,12 +29,16 @@ elseif("${CORE_SYSTEM_NAME}" STREQUAL "freebsd")
 # TODO
 endif()
 
+if(NOT "${CORE_SYSTEM_NAME}" STREQUAL "windows")
+  set(PATCH_COMMAND patch -p1 < ${PROJECT_SOURCE_DIR}/00_rename_file.patch)
+endif()
+
 include(ExternalProject)
 externalproject_add(fceu-next
                     GIT_REPOSITORY https://github.com/libretro/fceu-next
                     GIT_TAG 1b3d4d7
                     PREFIX fceu-next
-                    PATCH_COMMAND patch -p1 < ${PROJECT_SOURCE_DIR}/00_rename_file.patch
+                    PATCH_COMMAND ${PATCH_COMMAND}
                     CONFIGURE_COMMAND ""
                     INSTALL_COMMAND ""
                     BUILD_COMMAND ${BUILD_COMMAND}
