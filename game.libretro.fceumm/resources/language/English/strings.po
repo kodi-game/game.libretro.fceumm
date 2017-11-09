@@ -33,22 +33,50 @@ msgid "Overclocking"
 msgstr ""
 
 msgctxt "#30004"
-msgid "Crop Overscan"
+msgid "Crop Overscan (Horizontal)"
 msgstr ""
 
 msgctxt "#30005"
-msgid "Color Palette"
+msgid "Crop Overscan (Vertical)"
 msgstr ""
 
 msgctxt "#30006"
-msgid "Region Override"
+msgid "Color Palette"
 msgstr ""
 
 msgctxt "#30007"
-msgid "Turbo Delay (in frames)"
+msgid "Region Override"
 msgstr ""
 
 msgctxt "#30008"
+msgid "Show Crosshair"
+msgstr ""
+
+msgctxt "#30009"
+msgid "Sound Quality"
+msgstr ""
+
+msgctxt "#30010"
+msgid "Sound Volume"
+msgstr ""
+
+msgctxt "#30011"
+msgid "Swap Duty Cycles"
+msgstr ""
+
+msgctxt "#30012"
+msgid "Turbo Delay (in frames)"
+msgstr ""
+
+msgctxt "#30013"
 msgid "Turbo Enable"
+msgstr ""
+
+msgctxt "#30014"
+msgid "Use NTSC Palette"
+msgstr ""
+
+msgctxt "#30015"
+msgid "Zapper Mode"
 msgstr ""
 
