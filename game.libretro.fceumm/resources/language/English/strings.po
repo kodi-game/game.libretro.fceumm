@@ -73,10 +73,14 @@ msgid "Turbo Enable"
 msgstr ""
 
 msgctxt "#30014"
-msgid "Use NTSC Palette"
+msgid "Allow Up+Down / Left+Right"
 msgstr ""
 
 msgctxt "#30015"
+msgid "Use NTSC Palette"
+msgstr ""
+
+msgctxt "#30016"
 msgid "Zapper Mode"
 msgstr ""
 
