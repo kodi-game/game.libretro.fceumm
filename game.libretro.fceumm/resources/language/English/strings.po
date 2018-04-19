@@ -73,7 +73,7 @@ msgid "Turbo Enable"
 msgstr ""
 
 msgctxt "#30014"
-msgid "Allow Up+Down / Left+Right"
+msgid "Allow Opposing Directions"
 msgstr ""
 
 msgctxt "#30015"
