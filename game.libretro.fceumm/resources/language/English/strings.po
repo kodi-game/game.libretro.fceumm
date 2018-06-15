@@ -77,10 +77,6 @@ msgid "Allow Opposing Directions"
 msgstr ""
 
 msgctxt "#30015"
-msgid "Use NTSC Palette"
-msgstr ""
-
-msgctxt "#30016"
 msgid "Zapper Mode"
 msgstr ""
 
