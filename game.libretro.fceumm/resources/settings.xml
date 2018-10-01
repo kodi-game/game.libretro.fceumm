@@ -15,6 +15,6 @@
 		<setting label="30012" type="select" id="fceumm_turbo_delay" values="3|5|10|15|30|60|1|2" default="3"/>
 		<setting label="30013" type="select" id="fceumm_turbo_enable" values="None|Player 1|Player 2|Both" default="None"/>
 		<setting label="30014" type="select" id="fceumm_up_down_allowed" values="disabled|enabled" default="disabled"/>
-		<setting label="30015" type="select" id="fceumm_zapper_mode" values="pointer|mouse" default="pointer"/>
+		<setting label="30015" type="select" id="fceumm_zapper_mode" values="lightgun|mouse" default="lightgun"/>
 	</category>
 </settings>
