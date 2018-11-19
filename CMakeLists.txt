@@ -4,7 +4,7 @@ project(game.libretro.fceumm)
 list(APPEND CMAKE_MODULE_PATH ${PROJECT_SOURCE_DIR})
 
 find_package(Kodi REQUIRED)
-find_package(libretro-fceumm REQUIRED)
+find_library(FCEUMM_LIB NAMES fceumm_libretro${CMAKE_SHARED_LIBRARY_SUFFIX} PATH_SUFFIXES libretro)
 
 set(FCEUMM_CUSTOM_BINARY ${FCEUMM_LIB}
     ${PROJECT_NAME}${CMAKE_SHARED_LIBRARY_SUFFIX})
