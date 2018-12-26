@@ -45,37 +45,41 @@ msgid "Color Palette"
 msgstr ""
 
 msgctxt "#30007"
-msgid "Region Override"
+msgid "RAM power up state (Restart)"
 msgstr ""
 
 msgctxt "#30008"
-msgid "Show Crosshair"
+msgid "Region Override"
 msgstr ""
 
 msgctxt "#30009"
-msgid "Sound Quality"
+msgid "Show Crosshair"
 msgstr ""
 
 msgctxt "#30010"
-msgid "Sound Volume"
+msgid "Sound Quality"
 msgstr ""
 
 msgctxt "#30011"
-msgid "Swap Duty Cycles"
+msgid "Sound Volume"
 msgstr ""
 
 msgctxt "#30012"
-msgid "Turbo Delay (in frames)"
+msgid "Swap Duty Cycles"
 msgstr ""
 
 msgctxt "#30013"
-msgid "Turbo Enable"
+msgid "Turbo Delay (in frames)"
 msgstr ""
 
 msgctxt "#30014"
-msgid "Allow Opposing Directions"
+msgid "Turbo Enable"
 msgstr ""
 
 msgctxt "#30015"
+msgid "Allow Opposing Directions"
+msgstr ""
+
+msgctxt "#30016"
 msgid "Zapper Mode"
 msgstr ""
