@@ -16,11 +16,8 @@
 	</extension>
 	<extension point="xbmc.addon.metadata">
 		<summary lang="en_GB">Nintendo - NES / Famicom (FCEUmm) (SVN)</summary>
-		<description lang="en_GB">Port of FCEUmm to Libretro. FCEUmm emulates NES, Famicom, and Famicom Disk System (FDS). FCEUmm merges elements from FCEU Ultra, FCEU rerecording, FCEUXD, FCEUXDSP, FCEUXDSP CE, and FCEU-mm into a single branch of FCEU.
-
-Icon credit: Anarkhya (anarkhya.deviantart.com)
-
-Supported files: .fds, .nes, .unf, .unif</description>
+		<description lang="en_GB">FCEUmm emulates NES, Famicom, and Famicom Disk System (FDS) platforms.[CR][CR]FCEUmm merges elements from FCEU Ultra, FCEU rerecording, FCEUXD, FCEUXDSP, FCEUXDSP CE, and FCEU-mm into a single branch of FCEU.</description>
+		<disclaimer>Icon credit: Anarkhya (anarkhya.deviantart.com)</disclaimer>
 		<license>GPLv2</license>
 		<platform>@PLATFORM@</platform>
 		<source>https://github.com/kodi-game/game.libretro.fceumm</source>
