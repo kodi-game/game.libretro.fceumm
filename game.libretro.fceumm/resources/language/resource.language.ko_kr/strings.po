@@ -24,3 +24,7 @@ msgstr ""
 msgctxt "Addon Description"
 msgid "FCEUmm emulates NES, Famicom, and Famicom Disk System (FDS) platforms.[CR][CR]FCEUmm merges elements from FCEU Ultra, FCEU rerecording, FCEUXD, FCEUXDSP, FCEUXDSP CE, and FCEU-mm into a single branch of FCEU."
 msgstr "FCEUmm은 NES, Famicom 및 FDS(Famicom 디스크 시스템) 플랫폼을 에뮬레이트합니다.[CR][CR]FCEUmm는 FCEU Ultra, FCEU 재기록, FCEUXD, FCEUXDSP, FCEUXDSP CE 및 FCEU-mm의 요소를 FCEU의 단일 분기로 병합합니다."
+
+msgctxt "Addon Disclaimer"
+msgid "Icon credit: Anarkhya (anarkhya.deviantart.com)"
+msgstr ""
