@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <addon id="game.libretro.fceumm"
 		name="Nintendo - NES / Famicom (FCEUmm)"
-		version="0.0.1.35"
+		version="0.0.1.36"
 		provider-name="FCEU Team, CaH4e3">
 	<requires>
 		<import addon="game.libretro" version="1.0.0"/>
