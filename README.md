@@ -15,7 +15,7 @@ GPLv2
 
 ### Icon
 
-![Icon](game.libretro.fceumm/resources/icon.png)
+![Nintendo - NES / Famicom (FCEUmm) icon](game.libretro.fceumm/resources/icon.png)
 
 ### Fanart
 
@@ -23,9 +23,9 @@ Help make me fanart!
 
 ### Screenshots
 
-![Screenshot](game.libretro.fceumm/resources/screenshot-01.jpg)
-![Screenshot](game.libretro.fceumm/resources/screenshot-02.jpg)
-![Screenshot](game.libretro.fceumm/resources/screenshot-03.jpg)
+![Nintendo - NES / Famicom (FCEUmm) screenshot](game.libretro.fceumm/resources/screenshot-01.jpg)
+![Nintendo - NES / Famicom (FCEUmm) screenshot](game.libretro.fceumm/resources/screenshot-02.jpg)
+![Nintendo - NES / Famicom (FCEUmm) screenshot](game.libretro.fceumm/resources/screenshot-03.jpg)
 
 ### Disclaimer
 
