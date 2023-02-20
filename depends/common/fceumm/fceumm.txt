@@ -1,1 +1,1 @@
-fceumm https://github.com/libretro/libretro-fceumm/archive/159f27a1f16e74f4e1f7f424477d3bb098302ea0.tar.gz
+fceumm https://github.com/libretro/libretro-fceumm/archive/729d42572e6b926ec03baf31e3378a7a2ac151ab.tar.gz
