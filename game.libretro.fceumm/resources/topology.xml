@@ -4,7 +4,7 @@
     <accepts controller="game.controller.nes"/>
     <accepts controller="game.controller.nes.arkanoid"/>
     <accepts controller="game.controller.nes.zapper"/>
-    <accepts controller="game.controller.nes.four.square">
+    <accepts controller="game.controller.nes.four.score">
       <port id="1">
         <accepts controller="game.controller.nes"/>
       </port>
