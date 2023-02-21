@@ -2,9 +2,11 @@
 <logicaltopology playerlimit="4">
   <port id="1">
     <accepts controller="game.controller.nes"/>
+    <!-- TODO
     <accepts controller="game.controller.nes.arkanoid"/>
     <accepts controller="game.controller.nes.zapper"/>
-    <accepts controller="game.controller.nes.four.square">
+    -->
+    <accepts controller="game.controller.nes.four.score">
       <port id="1">
         <accepts controller="game.controller.nes"/>
       </port>
@@ -26,7 +28,9 @@
   </port>
   <port id="2">
     <accepts controller="game.controller.nes"/>
+    <!-- TODO
     <accepts controller="game.controller.nes.arkanoid"/>
     <accepts controller="game.controller.nes.zapper"/>
+    -->
   </port>
 </logicaltopology>
