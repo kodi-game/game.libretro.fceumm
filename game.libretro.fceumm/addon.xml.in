@@ -27,6 +27,7 @@
 			<screenshot>resources/screenshot-03.jpg</screenshot>
 		</assets>
 		<summary lang="en_GB">Nintendo - NES / Famicom (FCEUmm)</summary>
+		<summary lang="es_ES">Nintendo - NES / Famicom (FCEUmm)</summary>
 		<description lang="da_DK">FCEUmm emulerer NES-, Famicom- og Famicom Disk System-platforme (FDS).[CR][CR]FCEUmm fusionerer elementer fra FCEU Ultra, FCEU-genoptagelse, FCEUXD, FCEUXDSP, FCEUXDSP CE og FCEU-mm til et enkelt branch af FCEU.</description>
 		<description lang="de_DE">FCEUmm emuliert NES-, Famicom- und „Famicom Disk System“(FDS)-Plattformen[CR][CR]FCEUmm vereint Elemente von FCEU Ultra, FCEU rerecording, FCEUXD, FCEUXDSP, FCEUXDSP CE und FCEU-mm in einem einzigen Ableger von FCEU.</description>
 		<description lang="en_GB">FCEUmm emulates NES, Famicom, and Famicom Disk System (FDS) platforms.[CR][CR]FCEUmm merges elements from FCEU Ultra, FCEU rerecording, FCEUXD, FCEUXDSP, FCEUXDSP CE, and FCEU-mm into a single branch of FCEU.</description>
