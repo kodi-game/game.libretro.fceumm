@@ -27,6 +27,7 @@
 			<screenshot>resources/screenshot-02.jpg</screenshot>
 			<screenshot>resources/screenshot-03.jpg</screenshot>
 		</assets>
+		<summary lang="cs_CZ">Nintendo - NES / Famicom (FCEUmm)</summary>
 		<summary lang="da_DK">Nintendo - NES / Famicom (FCEUmm)</summary>
 		<summary lang="en_GB">Nintendo - NES / Famicom (FCEUmm)</summary>
 		<summary lang="es_ES">Nintendo - NES / Famicom (FCEUmm)</summary>
@@ -36,6 +37,7 @@
 		<summary lang="ru_RU">Nintendo - NES / Famicom (FCEUmm)</summary>
 		<summary lang="sv_SE">Nintendo - NES / Famicom (FCEUmm)</summary>
 		<summary lang="zh_CN">任天堂 - NES / Famicom (FCEUmm)</summary>
+		<description lang="cs_CZ">FCEUmm emuluje platformy NES, Famicom a Famicom Disk System (FDS).[CR][CR]FCEUmm slučuje prvky z FCEU Ultra, FCEU rerecording, FCEUXD, FCEUXDSP, FCEUXDSP CE a FCEU-mm do jedné větve FCEU.</description>
 		<description lang="da_DK">FCEUmm emulerer NES-, Famicom- og Famicom Disk System-platforme (FDS).[CR][CR]FCEUmm fusionerer elementer fra FCEU Ultra, FCEU-genoptagelse, FCEUXD, FCEUXDSP, FCEUXDSP CE og FCEU-mm til et enkelt branch af FCEU.</description>
 		<description lang="de_DE">FCEUmm emuliert NES-, Famicom- und „Famicom Disk System“(FDS)-Plattformen[CR][CR]FCEUmm vereint Elemente von FCEU Ultra, FCEU rerecording, FCEUXD, FCEUXDSP, FCEUXDSP CE und FCEU-mm in einem einzigen Ableger von FCEU.</description>
 		<description lang="en_GB">FCEUmm emulates NES, Famicom, and Famicom Disk System (FDS) platforms.[CR][CR]FCEUmm merges elements from FCEU Ultra, FCEU rerecording, FCEUXD, FCEUXDSP, FCEUXDSP CE, and FCEU-mm into a single branch of FCEU.</description>
@@ -47,6 +49,7 @@
 		<description lang="sl_SI">FCEUmm posnema platforme NES, Famicom in Famicom Disk System (FDS).[CR][CR]FCEUmm združuje elemente iz FCEU Ultra, FCEU ponovnega snemanja, FCEUXD, FCEUXDSP, FCEUXDSP CE in FCEU-mm v eno vejo FCEU.</description>
 		<description lang="sv_SE">FCEUmm emulerar plattformarna NES, Famicom och Famicom Disk System (FDS)[CR][CR]FCEUmm sammanför element från FCEU Ultra, FCEU rerecording, FCEUXD, FCEUXDSP, FCEUXDSP CE och FCEU-mm till en enda gren av FCEU.</description>
 		<description lang="zh_CN">FCEUmm 模拟 NES、Famicom 和 Famicom 磁盘系统（FDS）平台。[CR][CR]FCEUmm 将 FCEU Ultra、FCEU rerecording、FCEUXD、FCEUXDSP、FCEUXDSP CE 和 FCEU-mm 中的元素合并到 FCEU 的单个分支中。</description>
+		<disclaimer lang="cs_CZ">Autor ikony: Anarkhya (anarkhya.deviantart.com)</disclaimer>
 		<disclaimer lang="da_DK">Billedkreditering: Anarkhya (anarkhya.deviantart.com)</disclaimer>
 		<disclaimer lang="de_DE">Symbolnachweis: Anarkhya (anarkhya.deviantart.com)</disclaimer>
 		<disclaimer lang="en_GB">Icon credit: Anarkhya (anarkhya.deviantart.com)</disclaimer>
