@@ -782,6 +782,30 @@ msgctxt "#30194"
 msgid "Random"
 msgstr "Slumpmässigt"
 
+msgctxt "#30195"
+msgid "Swap Duty Cycles"
+msgstr ""
+
+msgctxt "#30196"
+msgid "Channel 1 (Square 1)"
+msgstr ""
+
+msgctxt "#30197"
+msgid "Channel 2 (Square 2)"
+msgstr ""
+
+msgctxt "#30198"
+msgid "Channel 3 (Triangle)"
+msgstr ""
+
+msgctxt "#30199"
+msgid "Channel 4 (Noise)"
+msgstr ""
+
+msgctxt "#30200"
+msgid "Channel 5 (PCM)"
+msgstr ""
+
 #~ msgctxt "#30114"
 #~ msgid "Swap Audio Duty Cycles"
 #~ msgstr "Växla ljudets arbetscykler"
