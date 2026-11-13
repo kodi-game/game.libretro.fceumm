@@ -481,10 +481,6 @@ msgctxt "#30113"
 msgid "32ms Delay"
 msgstr ""
 
-msgctxt "#30114"
-msgid "Swap Audio Duty Cycles"
-msgstr "Alterna os ciclos de trabalho do áudio"
-
 msgctxt "#30115"
 msgid "Simulates the sound from famiclones that have the pulse wave channels duty cycle bits reversed."
 msgstr "Faz a simulação de áudio de clones do famicom que tem o pulso dos bits da onda dos canais invertido."
@@ -541,41 +537,21 @@ msgctxt "#30128"
 msgid "100%"
 msgstr ""
 
-msgctxt "#30129"
-msgid "Audio Channel 1 (Square 1)"
-msgstr "Canal de áudio 1 (Quadrado 1)"
-
 msgctxt "#30130"
 msgid "Enables or disables pulse wave generator audio output 1."
 msgstr "Ativa ou desativa a saída de áudio 1 do gerador de pulso de ondas."
-
-msgctxt "#30131"
-msgid "Audio Channel 2 (Square 2)"
-msgstr "Canal de áudio 2 (Quadrado 2)"
 
 msgctxt "#30132"
 msgid "Enables or disables pulse wave generator audio output 2."
 msgstr "Ativa ou desativa a saída de áudio 2 do gerador de pulso de ondas."
 
-msgctxt "#30133"
-msgid "Audio Channel 3 (Triangle)"
-msgstr "Canal de áudio 3 (Triângulo)"
-
 msgctxt "#30134"
 msgid "Enables or disables triangle wave generator audio output."
 msgstr "Ativa ou desativa a saída de áudio do gerador de onda triangular."
 
-msgctxt "#30135"
-msgid "Audio Channel 4 (Noise)"
-msgstr "Canal de áudio 4 (Ruído)"
-
 msgctxt "#30136"
 msgid "Enables or disables noise generator audio output."
 msgstr "Ativa ou desativa a saída de áudio do gerador de ruído."
-
-msgctxt "#30137"
-msgid "Audio Channel 5 (PCM)"
-msgstr "Canal de áudio 5 (PCM)"
 
 msgctxt "#30138"
 msgid "Enables or disables delta modulation channel audio output."
@@ -804,3 +780,51 @@ msgstr ""
 msgctxt "#30194"
 msgid "Random"
 msgstr "Aleatório"
+
+msgctxt "#30195"
+msgid "Swap Duty Cycles"
+msgstr "Alterna os ciclos de trabalho"
+
+msgctxt "#30196"
+msgid "Channel 1 (Square 1)"
+msgstr "Canal 1 (Quadrado 1)"
+
+msgctxt "#30197"
+msgid "Channel 2 (Square 2)"
+msgstr "Canal 2 (Quadrado 2)"
+
+msgctxt "#30198"
+msgid "Channel 3 (Triangle)"
+msgstr "Canal 3 (Triângulo)"
+
+msgctxt "#30199"
+msgid "Channel 4 (Noise)"
+msgstr "Canal 4 (Ruído)"
+
+msgctxt "#30200"
+msgid "Channel 5 (PCM)"
+msgstr "Canal 5 (PCM)"
+
+#~ msgctxt "#30114"
+#~ msgid "Swap Audio Duty Cycles"
+#~ msgstr "Alterna os ciclos de trabalho do áudio"
+
+#~ msgctxt "#30129"
+#~ msgid "Audio Channel 1 (Square 1)"
+#~ msgstr "Canal de áudio 1 (Quadrado 1)"
+
+#~ msgctxt "#30131"
+#~ msgid "Audio Channel 2 (Square 2)"
+#~ msgstr "Canal de áudio 2 (Quadrado 2)"
+
+#~ msgctxt "#30133"
+#~ msgid "Audio Channel 3 (Triangle)"
+#~ msgstr "Canal de áudio 3 (Triângulo)"
+
+#~ msgctxt "#30135"
+#~ msgid "Audio Channel 4 (Noise)"
+#~ msgstr "Canal de áudio 4 (Ruído)"
+
+#~ msgctxt "#30137"
+#~ msgid "Audio Channel 5 (PCM)"
+#~ msgstr "Canal de áudio 5 (PCM)"

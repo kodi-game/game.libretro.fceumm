@@ -481,10 +481,6 @@ msgctxt "#30113"
 msgid "32ms Delay"
 msgstr "Задержка 32 мс"
 
-msgctxt "#30114"
-msgid "Swap Audio Duty Cycles"
-msgstr "Поменять рабочие циклы аудио"
-
 msgctxt "#30115"
 msgid "Simulates the sound from famiclones that have the pulse wave channels duty cycle bits reversed."
 msgstr "Имитирует звучание фамиклонов с обратным порядком битов в рабочих циклах каналов прямоугольной волны."
@@ -541,41 +537,21 @@ msgctxt "#30128"
 msgid "100%"
 msgstr "100 %"
 
-msgctxt "#30129"
-msgid "Audio Channel 1 (Square 1)"
-msgstr "Аудиоканал 1 (прямоугольный 1)"
-
 msgctxt "#30130"
 msgid "Enables or disables pulse wave generator audio output 1."
 msgstr "Включает или отключает вывод звука для генератора прямоугольной волны 1."
-
-msgctxt "#30131"
-msgid "Audio Channel 2 (Square 2)"
-msgstr "Аудиоканал 2 (прямоугольный 2)"
 
 msgctxt "#30132"
 msgid "Enables or disables pulse wave generator audio output 2."
 msgstr "Включает или отключает вывод звука для генератора прямоугольной волны 2."
 
-msgctxt "#30133"
-msgid "Audio Channel 3 (Triangle)"
-msgstr "Аудиоканал 3 (треугольный)"
-
 msgctxt "#30134"
 msgid "Enables or disables triangle wave generator audio output."
 msgstr "Включает или отключает вывод звука для генератора треугольной волны."
 
-msgctxt "#30135"
-msgid "Audio Channel 4 (Noise)"
-msgstr "Аудиоканал 4 (шумовой)"
-
 msgctxt "#30136"
 msgid "Enables or disables noise generator audio output."
 msgstr "Включает или отключает вывод звука для генератора шума."
-
-msgctxt "#30137"
-msgid "Audio Channel 5 (PCM)"
-msgstr "Аудиоканал 5 (PCM)"
 
 msgctxt "#30138"
 msgid "Enables or disables delta modulation channel audio output."
@@ -804,3 +780,51 @@ msgstr "$00"
 msgctxt "#30194"
 msgid "Random"
 msgstr "Случайно"
+
+msgctxt "#30195"
+msgid "Swap Duty Cycles"
+msgstr "Поменять рабочие циклы"
+
+msgctxt "#30196"
+msgid "Channel 1 (Square 1)"
+msgstr "Канал 1 (прямоугольный 1)"
+
+msgctxt "#30197"
+msgid "Channel 2 (Square 2)"
+msgstr "Канал 2 (прямоугольный 2)"
+
+msgctxt "#30198"
+msgid "Channel 3 (Triangle)"
+msgstr "Канал 3 (треугольный)"
+
+msgctxt "#30199"
+msgid "Channel 4 (Noise)"
+msgstr "Канал 4 (шумовой)"
+
+msgctxt "#30200"
+msgid "Channel 5 (PCM)"
+msgstr "Канал 5 (PCM)"
+
+#~ msgctxt "#30114"
+#~ msgid "Swap Audio Duty Cycles"
+#~ msgstr "Поменять рабочие циклы аудио"
+
+#~ msgctxt "#30129"
+#~ msgid "Audio Channel 1 (Square 1)"
+#~ msgstr "Аудиоканал 1 (прямоугольный 1)"
+
+#~ msgctxt "#30131"
+#~ msgid "Audio Channel 2 (Square 2)"
+#~ msgstr "Аудиоканал 2 (прямоугольный 2)"
+
+#~ msgctxt "#30133"
+#~ msgid "Audio Channel 3 (Triangle)"
+#~ msgstr "Аудиоканал 3 (треугольный)"
+
+#~ msgctxt "#30135"
+#~ msgid "Audio Channel 4 (Noise)"
+#~ msgstr "Аудиоканал 4 (шумовой)"
+
+#~ msgctxt "#30137"
+#~ msgid "Audio Channel 5 (PCM)"
+#~ msgstr "Аудиоканал 5 (PCM)"

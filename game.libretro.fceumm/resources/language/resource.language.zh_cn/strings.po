@@ -481,10 +481,6 @@ msgctxt "#30113"
 msgid "32ms Delay"
 msgstr ""
 
-msgctxt "#30114"
-msgid "Swap Audio Duty Cycles"
-msgstr ""
-
 msgctxt "#30115"
 msgid "Simulates the sound from famiclones that have the pulse wave channels duty cycle bits reversed."
 msgstr ""
@@ -541,40 +537,20 @@ msgctxt "#30128"
 msgid "100%"
 msgstr ""
 
-msgctxt "#30129"
-msgid "Audio Channel 1 (Square 1)"
-msgstr ""
-
 msgctxt "#30130"
 msgid "Enables or disables pulse wave generator audio output 1."
-msgstr ""
-
-msgctxt "#30131"
-msgid "Audio Channel 2 (Square 2)"
 msgstr ""
 
 msgctxt "#30132"
 msgid "Enables or disables pulse wave generator audio output 2."
 msgstr ""
 
-msgctxt "#30133"
-msgid "Audio Channel 3 (Triangle)"
-msgstr ""
-
 msgctxt "#30134"
 msgid "Enables or disables triangle wave generator audio output."
 msgstr ""
 
-msgctxt "#30135"
-msgid "Audio Channel 4 (Noise)"
-msgstr ""
-
 msgctxt "#30136"
 msgid "Enables or disables noise generator audio output."
-msgstr ""
-
-msgctxt "#30137"
-msgid "Audio Channel 5 (PCM)"
 msgstr ""
 
 msgctxt "#30138"
@@ -804,3 +780,51 @@ msgstr ""
 msgctxt "#30194"
 msgid "Random"
 msgstr "随机"
+
+msgctxt "#30195"
+msgid "Swap Duty Cycles"
+msgstr ""
+
+msgctxt "#30196"
+msgid "Channel 1 (Square 1)"
+msgstr ""
+
+msgctxt "#30197"
+msgid "Channel 2 (Square 2)"
+msgstr ""
+
+msgctxt "#30198"
+msgid "Channel 3 (Triangle)"
+msgstr ""
+
+msgctxt "#30199"
+msgid "Channel 4 (Noise)"
+msgstr ""
+
+msgctxt "#30200"
+msgid "Channel 5 (PCM)"
+msgstr ""
+
+#~ msgctxt "#30114"
+#~ msgid "Swap Audio Duty Cycles"
+#~ msgstr ""
+
+#~ msgctxt "#30129"
+#~ msgid "Audio Channel 1 (Square 1)"
+#~ msgstr ""
+
+#~ msgctxt "#30131"
+#~ msgid "Audio Channel 2 (Square 2)"
+#~ msgstr ""
+
+#~ msgctxt "#30133"
+#~ msgid "Audio Channel 3 (Triangle)"
+#~ msgstr ""
+
+#~ msgctxt "#30135"
+#~ msgid "Audio Channel 4 (Noise)"
+#~ msgstr ""
+
+#~ msgctxt "#30137"
+#~ msgid "Audio Channel 5 (PCM)"
+#~ msgstr ""

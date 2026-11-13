@@ -294,7 +294,7 @@
 					</constraints>
 					<control type="list" format="string" />
 				</setting>
-				<setting id="fceumm_swapduty" type="string" label="30114" help="30115">
+				<setting id="fceumm_swapduty" type="string" label="30195" help="30115">
 					<level>0</level>
 					<default>disabled</default>
 					<constraints>
@@ -325,7 +325,7 @@
 					</constraints>
 					<control type="list" format="string" />
 				</setting>
-				<setting id="fceumm_apu_1" type="string" label="30129" help="30130">
+				<setting id="fceumm_apu_1" type="string" label="30196" help="30130">
 					<level>0</level>
 					<default>enabled</default>
 					<constraints>
@@ -336,7 +336,7 @@
 					</constraints>
 					<control type="list" format="string" />
 				</setting>
-				<setting id="fceumm_apu_2" type="string" label="30131" help="30132">
+				<setting id="fceumm_apu_2" type="string" label="30197" help="30132">
 					<level>0</level>
 					<default>enabled</default>
 					<constraints>
@@ -347,7 +347,7 @@
 					</constraints>
 					<control type="list" format="string" />
 				</setting>
-				<setting id="fceumm_apu_3" type="string" label="30133" help="30134">
+				<setting id="fceumm_apu_3" type="string" label="30198" help="30134">
 					<level>0</level>
 					<default>enabled</default>
 					<constraints>
@@ -358,7 +358,7 @@
 					</constraints>
 					<control type="list" format="string" />
 				</setting>
-				<setting id="fceumm_apu_4" type="string" label="30135" help="30136">
+				<setting id="fceumm_apu_4" type="string" label="30199" help="30136">
 					<level>0</level>
 					<default>enabled</default>
 					<constraints>
@@ -369,7 +369,7 @@
 					</constraints>
 					<control type="list" format="string" />
 				</setting>
-				<setting id="fceumm_apu_5" type="string" label="30137" help="30138">
+				<setting id="fceumm_apu_5" type="string" label="30200" help="30138">
 					<level>0</level>
 					<default>enabled</default>
 					<constraints>

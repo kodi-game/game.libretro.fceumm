@@ -482,10 +482,6 @@ msgctxt "#30113"
 msgid "32ms Delay"
 msgstr "Zpoždění 32 ms"
 
-msgctxt "#30114"
-msgid "Swap Audio Duty Cycles"
-msgstr "Prohodit poměry pulzů zvukových kanálů"
-
 msgctxt "#30115"
 msgid "Simulates the sound from famiclones that have the pulse wave channels duty cycle bits reversed."
 msgstr "Simuluje zvuk klonů Famicomu, které mají prohozené bity určující poměr pulzu v kanálech pulzní vlny."
@@ -542,41 +538,21 @@ msgctxt "#30128"
 msgid "100%"
 msgstr "100 %"
 
-msgctxt "#30129"
-msgid "Audio Channel 1 (Square 1)"
-msgstr "Zvukový kanál 1 (obdélníkový 1)"
-
 msgctxt "#30130"
 msgid "Enables or disables pulse wave generator audio output 1."
 msgstr "Povolit nebo zakázat zvukový výstup 1 generátoru pulzní vlny."
-
-msgctxt "#30131"
-msgid "Audio Channel 2 (Square 2)"
-msgstr "Zvukový kanál 2 (obdélníkový 2)"
 
 msgctxt "#30132"
 msgid "Enables or disables pulse wave generator audio output 2."
 msgstr "Povolit nebo zakázat zvukový výstup 2 generátoru pulzní vlny."
 
-msgctxt "#30133"
-msgid "Audio Channel 3 (Triangle)"
-msgstr "Zvukový kanál 3 (trojúhelníkový)"
-
 msgctxt "#30134"
 msgid "Enables or disables triangle wave generator audio output."
 msgstr "Povolit nebo zakázat zvukový výstup generátoru trojúhelníkové vlny."
 
-msgctxt "#30135"
-msgid "Audio Channel 4 (Noise)"
-msgstr "Zvukový kanál 4 (šumový)"
-
 msgctxt "#30136"
 msgid "Enables or disables noise generator audio output."
 msgstr "Povolit nebo zakázat zvukový výstup generátoru šumu."
-
-msgctxt "#30137"
-msgid "Audio Channel 5 (PCM)"
-msgstr "Zvukový kanál 5 (PCM)"
 
 msgctxt "#30138"
 msgid "Enables or disables delta modulation channel audio output."
@@ -805,3 +781,27 @@ msgstr "$00"
 msgctxt "#30194"
 msgid "Random"
 msgstr "Náhodné"
+
+#~ msgctxt "#30114"
+#~ msgid "Swap Audio Duty Cycles"
+#~ msgstr "Prohodit poměry pulzů zvukových kanálů"
+
+#~ msgctxt "#30129"
+#~ msgid "Audio Channel 1 (Square 1)"
+#~ msgstr "Zvukový kanál 1 (obdélníkový 1)"
+
+#~ msgctxt "#30131"
+#~ msgid "Audio Channel 2 (Square 2)"
+#~ msgstr "Zvukový kanál 2 (obdélníkový 2)"
+
+#~ msgctxt "#30133"
+#~ msgid "Audio Channel 3 (Triangle)"
+#~ msgstr "Zvukový kanál 3 (trojúhelníkový)"
+
+#~ msgctxt "#30135"
+#~ msgid "Audio Channel 4 (Noise)"
+#~ msgstr "Zvukový kanál 4 (šumový)"
+
+#~ msgctxt "#30137"
+#~ msgid "Audio Channel 5 (PCM)"
+#~ msgstr "Zvukový kanál 5 (PCM)"

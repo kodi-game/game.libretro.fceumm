@@ -481,10 +481,6 @@ msgctxt "#30113"
 msgid "32ms Delay"
 msgstr ""
 
-msgctxt "#30114"
-msgid "Swap Audio Duty Cycles"
-msgstr "Ses Görev Döngülerini Değiştir"
-
 msgctxt "#30115"
 msgid "Simulates the sound from famiclones that have the pulse wave channels duty cycle bits reversed."
 msgstr "Darbe dalgası kanalları görev döngüsü bitleri ters çevrilmiş Famiklon üstünden gelen sesi taklit eder."
@@ -541,41 +537,21 @@ msgctxt "#30128"
 msgid "100%"
 msgstr "%100"
 
-msgctxt "#30129"
-msgid "Audio Channel 1 (Square 1)"
-msgstr "Ses Kanalı 1 (Kare 1)"
-
 msgctxt "#30130"
 msgid "Enables or disables pulse wave generator audio output 1."
 msgstr "Darbe dalgası üreteci ses çıkışı 1 için etkinleştirir veya devre dışı bırakır."
-
-msgctxt "#30131"
-msgid "Audio Channel 2 (Square 2)"
-msgstr "Ses Kanalı 2 (Kare 2)"
 
 msgctxt "#30132"
 msgid "Enables or disables pulse wave generator audio output 2."
 msgstr "Darbe dalgası üreteci ses çıkışı 2 için etkinleştirir veya devre dışı bırakır."
 
-msgctxt "#30133"
-msgid "Audio Channel 3 (Triangle)"
-msgstr "Ses Kanalı 3 (Üçgen)"
-
 msgctxt "#30134"
 msgid "Enables or disables triangle wave generator audio output."
 msgstr "Üçgen dalga üreteci ses çıkışını etkinleştirir veya devre dışı bırakır."
 
-msgctxt "#30135"
-msgid "Audio Channel 4 (Noise)"
-msgstr "Ses Kanalı 4 (Gürültü)"
-
 msgctxt "#30136"
 msgid "Enables or disables noise generator audio output."
 msgstr "Gürültü oluşturucu ses çıkışını etkinleştirir veya devre dışı bırakır."
-
-msgctxt "#30137"
-msgid "Audio Channel 5 (PCM)"
-msgstr "Ses Kanalı 5 (PCM)"
 
 msgctxt "#30138"
 msgid "Enables or disables delta modulation channel audio output."
@@ -804,3 +780,51 @@ msgstr ""
 msgctxt "#30194"
 msgid "Random"
 msgstr "Rastgele"
+
+msgctxt "#30195"
+msgid "Swap Duty Cycles"
+msgstr "Görev Döngülerini Değiştir"
+
+msgctxt "#30196"
+msgid "Channel 1 (Square 1)"
+msgstr "Kanal 1 (Kare 1)"
+
+msgctxt "#30197"
+msgid "Channel 2 (Square 2)"
+msgstr "Kanal 2 (Kare 2)"
+
+msgctxt "#30198"
+msgid "Channel 3 (Triangle)"
+msgstr "Kanal 3 (Üçgen)"
+
+msgctxt "#30199"
+msgid "Channel 4 (Noise)"
+msgstr "Ses Kanalı 4 (Gürültü)"
+
+msgctxt "#30200"
+msgid "Channel 5 (PCM)"
+msgstr "Kanal 5 (PCM)"
+
+#~ msgctxt "#30114"
+#~ msgid "Swap Audio Duty Cycles"
+#~ msgstr "Ses Görev Döngülerini Değiştir"
+
+#~ msgctxt "#30129"
+#~ msgid "Audio Channel 1 (Square 1)"
+#~ msgstr "Ses Kanalı 1 (Kare 1)"
+
+#~ msgctxt "#30131"
+#~ msgid "Audio Channel 2 (Square 2)"
+#~ msgstr "Ses Kanalı 2 (Kare 2)"
+
+#~ msgctxt "#30133"
+#~ msgid "Audio Channel 3 (Triangle)"
+#~ msgstr "Ses Kanalı 3 (Üçgen)"
+
+#~ msgctxt "#30135"
+#~ msgid "Audio Channel 4 (Noise)"
+#~ msgstr "Ses Kanalı 4 (Gürültü)"
+
+#~ msgctxt "#30137"
+#~ msgid "Audio Channel 5 (PCM)"
+#~ msgstr "Ses Kanalı 5 (PCM)"

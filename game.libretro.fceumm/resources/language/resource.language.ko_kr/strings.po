@@ -481,10 +481,6 @@ msgctxt "#30113"
 msgid "32ms Delay"
 msgstr ""
 
-msgctxt "#30114"
-msgid "Swap Audio Duty Cycles"
-msgstr "오디오 듀티 사이클 반전"
-
 msgctxt "#30115"
 msgid "Simulates the sound from famiclones that have the pulse wave channels duty cycle bits reversed."
 msgstr "구형파 채널의 듀티 사이클 비트가 반전된 일부 패미클론의 소리를 흉내냅니다."
@@ -541,41 +537,21 @@ msgctxt "#30128"
 msgid "100%"
 msgstr ""
 
-msgctxt "#30129"
-msgid "Audio Channel 1 (Square 1)"
-msgstr "오디오 채널 1 (구형파 1)"
-
 msgctxt "#30130"
 msgid "Enables or disables pulse wave generator audio output 1."
 msgstr "1번 구형파 생성기의 오디오 출력을 활성화합니다."
-
-msgctxt "#30131"
-msgid "Audio Channel 2 (Square 2)"
-msgstr "오디오 채널 2 (구형파 2)"
 
 msgctxt "#30132"
 msgid "Enables or disables pulse wave generator audio output 2."
 msgstr "2번 구형파 생성기의 오디오 출력을 활성화합니다."
 
-msgctxt "#30133"
-msgid "Audio Channel 3 (Triangle)"
-msgstr "오디오 채널 3 (삼각파)"
-
 msgctxt "#30134"
 msgid "Enables or disables triangle wave generator audio output."
 msgstr "삼각파 생성기의 오디오 출력을 활성화합니다."
 
-msgctxt "#30135"
-msgid "Audio Channel 4 (Noise)"
-msgstr "오디오 채널 4 (노이즈)"
-
 msgctxt "#30136"
 msgid "Enables or disables noise generator audio output."
 msgstr "노이즈 생성기의 오디오 출력을 활성화합니다."
-
-msgctxt "#30137"
-msgid "Audio Channel 5 (PCM)"
-msgstr "오디오 채널 5 (PCM)"
 
 msgctxt "#30138"
 msgid "Enables or disables delta modulation channel audio output."
@@ -804,3 +780,51 @@ msgstr ""
 msgctxt "#30194"
 msgid "Random"
 msgstr "무작위"
+
+msgctxt "#30195"
+msgid "Swap Duty Cycles"
+msgstr "듀티 사이클 반전"
+
+msgctxt "#30196"
+msgid "Channel 1 (Square 1)"
+msgstr "채널 1 (구형파 1)"
+
+msgctxt "#30197"
+msgid "Channel 2 (Square 2)"
+msgstr "채널 2 (구형파 2)"
+
+msgctxt "#30198"
+msgid "Channel 3 (Triangle)"
+msgstr "채널 3 (삼각파)"
+
+msgctxt "#30199"
+msgid "Channel 4 (Noise)"
+msgstr "채널 4 (노이즈)"
+
+msgctxt "#30200"
+msgid "Channel 5 (PCM)"
+msgstr "채널 5 (PCM)"
+
+#~ msgctxt "#30114"
+#~ msgid "Swap Audio Duty Cycles"
+#~ msgstr "오디오 듀티 사이클 반전"
+
+#~ msgctxt "#30129"
+#~ msgid "Audio Channel 1 (Square 1)"
+#~ msgstr "오디오 채널 1 (구형파 1)"
+
+#~ msgctxt "#30131"
+#~ msgid "Audio Channel 2 (Square 2)"
+#~ msgstr "오디오 채널 2 (구형파 2)"
+
+#~ msgctxt "#30133"
+#~ msgid "Audio Channel 3 (Triangle)"
+#~ msgstr "오디오 채널 3 (삼각파)"
+
+#~ msgctxt "#30135"
+#~ msgid "Audio Channel 4 (Noise)"
+#~ msgstr "오디오 채널 4 (노이즈)"
+
+#~ msgctxt "#30137"
+#~ msgid "Audio Channel 5 (PCM)"
+#~ msgstr "오디오 채널 5 (PCM)"
